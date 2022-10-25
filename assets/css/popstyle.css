@@ -70,17 +70,9 @@ box-sizing: border-box;
     padding: 1rem 0 !important;
     border-bottom: 1px solid #dee2e6 !important;
    margin-bottom: 15px;
-   
 }
 
 
 .closeBtn{
     padding: 1.02em 1.02em !important;
-}
-
-@media screen and (max-width: 600px) {
-    .modal-header{
-        padding: 0 !important;
-    }
-
 }
